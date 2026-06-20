@@ -12,22 +12,19 @@ Software Engineer
 ## Projects
 
 ### EventCally
+
 Open event database aimed at making it easy to publicize events.
 
-Python, Flask, Postgres, Redis, Docker.
-
-Site: https://oveda.de
-
-Repo: https://github.com/eventcally/eventcally
+**Tech:** Python · Flask · PostgreSQL · Redis · Docker  
+**Site:** https://oveda.de  
+**Repo:** https://github.com/eventcally/eventcally
 
 ### Groundhopping Helper
 Radius search for soccer matches in Germany.
 
-Python, Flask, MySQL, Redis, Docker.
-
-Site: https://groundhopping-helper.de
-
-Repo: Private
+**Tech:** Python · Flask · MySQL · Redis · Docker  
+**Site:** https://groundhopping-helper.de  
+**Repo:** Private
 
 > Most of my professional work happens in private repositories.
 

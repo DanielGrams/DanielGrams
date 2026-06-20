@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**DanielGrams/DanielGrams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
 
-Here are some ideas to get you started:
+## Skills
+- Python web apps, Flask
+- .NET Mobile Cross platform, MAUI, C#
+- .NET Backend, C#
+- Postgres, MSSQL, MySQL, Redis
+- CI/CD TeamCity, GitHub Actions, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### EventCally
+Open event database aimed at making it easy to publicize events.
+
+Python, Flask, Postgres, Redis, Docker.
+
+Site: https://oveda.de
+
+Repo: https://github.com/eventcally/eventcally
+
+### Groundhopping Helper
+Radius search for soccer matches in Germany.
+
+Python, Flask, MySQL, Redis, Docker.
+
+Site: https://groundhopping-helper.de
+
+Repo: Private
+
+> Most of my professional work happens in private repositories.
+
+## Links
+LinkedIn: http://www.linkedin.com/in/danielgrams

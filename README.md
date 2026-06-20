@@ -29,4 +29,5 @@ Radius search for soccer matches in Germany.
 > Most of my professional work happens in private repositories.
 
 ## Links
-LinkedIn: http://www.linkedin.com/in/danielgrams
+**LinkedIn:** https://www.linkedin.com/in/danielgrams  
+**XING:** https://www.xing.com/profile/Daniel_Grams2
